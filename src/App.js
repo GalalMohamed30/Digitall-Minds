@@ -1,3 +1,10 @@
+/*
+  Copyright © Digital Minds
+  Unauthorized copying, modification, or distribution of this file,
+  via any medium, is strictly prohibited.
+  This code is proprietary and confidential.
+*/
+
 import { Route, Routes } from 'react-router-dom';
 import './App.css';
 
