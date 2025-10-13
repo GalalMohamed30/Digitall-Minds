@@ -16,11 +16,9 @@ The platform offers a safe and engaging environment where kids can explore codin
 
 ## 🛠️ Technologies Used
 - **Frontend:** React.js, Tailwind CSS  
-- **State Management:** Redux Toolkit  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
+- **Backend:** PHP , Laravel 
+- **Database:** SQL  
 - **Authentication:** JWT (JSON Web Token)  
-- **Hosting:** Hostinger  
 - **Version Control:** Git & GitHub  
 
 ---
