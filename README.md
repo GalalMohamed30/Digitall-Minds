@@ -74,4 +74,4 @@ Your app will be ready for deployment!
 
 ---
 
-✨ _Developed with ❤️ by the Digital Minds Team_
+✨ _Developed with ❤️ by Galal Mohamed
