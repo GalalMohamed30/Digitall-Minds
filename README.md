@@ -3,7 +3,7 @@
 **Digital Minds** is an educational web platform designed specifically for children, aiming to teach them programming in a fun, interactive, and age-appropriate way.  
 The platform offers a safe and engaging environment where kids can explore coding concepts, enhance their logical thinking, and develop creativity through interactive lessons and exercises.
 
-**Live Demo : https://digitall-minds.com/
+Live Demo : https://digitall-minds.com/
 
 ---
 
